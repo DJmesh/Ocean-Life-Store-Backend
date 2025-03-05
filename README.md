@@ -1,4 +1,4 @@
-# 🌊 Ocean Life Store - Frontend
+# 🌊 Ocean Life Store - Backend
 
 Este projeto faz parte da disciplina de **Desenvolvimento Web** e tem como objetivo criar um **e-commerce sustentável** focado na preservação dos oceanos e proteção da vida marinha. Ele está alinhado com a **ODS 14 - Vida na Água**, promovendo conscientização e incentivando práticas responsáveis.
 
