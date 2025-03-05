@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     # Apps locais
     "core",
     "user",
+    "product",
 ]
 
 # Middlewares

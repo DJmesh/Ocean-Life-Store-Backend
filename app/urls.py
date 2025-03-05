@@ -29,6 +29,7 @@ urlpatterns = [
     path("api/token/refresh/", TokenRefreshView.as_view(), name="token_refresh"),
     # User APIs
     path("api/", include("user.urls")),
+    path("api/", include("product.urls")),
 ]
 
 # Separate schemas for each API group with customized Swagger and Redoc UIs
